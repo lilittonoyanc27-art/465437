@@ -1,0 +1,6 @@
+{
+  "name": "Razmik Football Academy",
+  "description": "Ինտերակտիվ ֆուտբոլային ակադեմիա Ռազմիկի համար՝ իսպաներենի անցյալ ժամանակաձևերը սովորելու և գոլեր խփելու համար։ Academia interactiva de fútbol para Razmik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
